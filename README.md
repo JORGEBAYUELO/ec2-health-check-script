@@ -95,4 +95,5 @@ As part of my journey into DevOps, I built this project to simulate real-world t
 ## 📫 Contact
 
 This project was developed by [Jorge Bayuelo](https://github.com/JORGEBAYUELO).
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jorge-bayuelo/)!
