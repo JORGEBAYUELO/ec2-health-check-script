@@ -14,3 +14,9 @@ This proof-of-concept Bash script monitors the health of all running EC2 instanc
 ---
 
 ## 📸 Screenshot
+
+![EC2 Health Check Screenshot](./green_and_red_status.png)
+
+![EC2 Email Notification Screenshot](./email_notification.png)
+
+![EC2 Email Notification Message Screenshot](./email_notification_message.png)
